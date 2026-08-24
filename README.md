@@ -12,6 +12,40 @@
 
 ---
 
+## Screenshots
+
+### Dashboard — Resume Ingestion & Preset Loader
+![Dashboard — Resume Ingestion & Preset Loader](docs/screenshots/01-dashboard.png)
+
+### Resume Ingestion with Populated Preset
+![Resume Ingestion with Populated Preset](docs/screenshots/02-resume-ingestion.png)
+
+### ATS Analysis — Score Ring & Verdict
+![ATS Analysis — Score Ring & Verdict](docs/screenshots/03-ats-analysis.png)
+
+### ATS Dimension Breakdown
+![ATS Dimension Breakdown](docs/screenshots/04-ats-breakdown.png)
+
+### Keyword Taxonomy & Skill Gap Matrix
+![Keyword Taxonomy & Skill Gap Matrix](docs/screenshots/05-skill-gap-analysis.png)
+
+### Grounded AI Recommendations
+![Grounded AI Recommendations](docs/screenshots/06-ai-recommendations.png)
+
+### Job Application Tracker
+![Job Application Tracker](docs/screenshots/07-application-tracker.png)
+
+### AI Evaluation Benchmark
+![AI Evaluation Benchmark](docs/screenshots/08-benchmark.png)
+
+### Architecture Blueprint
+![Architecture Blueprint](docs/screenshots/09-architecture.png)
+
+### Resume Version Comparison
+![Resume Version Comparison](docs/screenshots/10-version-comparison.png)
+
+---
+
 ## Why This Project Exists
 
 Modern ATS systems operate on **keyword matching alone** — they cannot understand context, quantify semantic fit, or explain why a candidate was filtered out. At the same time, AI-only scoring systems hallucinate metrics, fabricate skill matches, and produce unjustifiable results.
