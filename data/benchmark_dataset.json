@@ -1,0 +1,50 @@
+[
+  {
+    "id": "bm_01",
+    "domain": "Backend Engineering",
+    "candidateRole": "Senior Backend Engineer",
+    "targetRole": "Senior Software Backend Engineer (FastAPI & Python)",
+    "humanMatchCategory": "STRONG_MATCH",
+    "humanMatchScore": 92,
+    "requiredSkills": ["Python", "FastAPI", "PostgreSQL", "Docker", "SQLAlchemy", "Git"],
+    "preferredSkills": ["Redis", "Kubernetes", "gRPC", "Kafka"],
+    "resumeText": "ALEXANDER CHEN\nSan Francisco, CA | alex.chen@email.com\n\nPROFESSIONAL SUMMARY\nSenior Backend Engineer with 6+ years of experience designing asynchronous microservices using Python 3.11, FastAPI, and PostgreSQL. Built distributed task pipelines handling 5M daily requests.\n\nTECHNICAL SKILLS\nLanguages: Python, SQL, TypeScript\nFrameworks: FastAPI, Django, SQLAlchemy, Docker, Redis, Git, CI/CD\n\nEXPERIENCE\nSenior Software Engineer - CloudScale Inc | 2022 - Present\n- Architected high-throughput REST APIs using FastAPI and async SQLAlchemy connection pooling with PostgreSQL.\n- Containerized microservice deployments using Docker and GitHub Actions CI/CD pipelines.\n- Integrated Redis caching layers to reduce database query latency by 45%.\n\nEDUCATION\nB.S. in Computer Science - UC Berkeley, 2018",
+    "jobDescriptionText": "Position: Senior Software Backend Engineer (FastAPI & Python focus)\nWe are seeking an experienced Backend Engineer to scale asynchronous distributed workflows.\n\nREQUIRED SKILLS & QUALIFICATIONS:\n- High proficiency in Python 3.10+, FastAPI framework, and SQLAlchemy ORM.\n- Expert-level database design utilizing PostgreSQL.\n- Proficient in Docker container architectures and Git.\n\nPREFERRED:\n- Experience with Redis caching and Kubernetes orchestration."
+  },
+  {
+    "id": "bm_02",
+    "domain": "Frontend Engineering",
+    "candidateRole": "Junior Frontend Developer",
+    "targetRole": "Senior Frontend Engineer (React & TypeScript)",
+    "humanMatchCategory": "WEAK_MATCH",
+    "humanMatchScore": 48,
+    "requiredSkills": ["React", "TypeScript", "Next.js", "Redux", "Tailwind CSS", "Jest"],
+    "preferredSkills": ["GraphQL", "WebSockets", "Vite"],
+    "resumeText": "SAMUEL TAYLOR\nWeb developer with 1 year experience building basic websites using HTML, CSS, and basic JavaScript. Learning React.\n\nSKILLS\nHTML, CSS, JavaScript, Git, Visual Studio Code\n\nEXPERIENCE\nJunior Web Assistant - Local Agency | 2023 - Present\n- Updated HTML content and fixed broken links on client websites.\n- Styled landing pages using basic CSS.\n\nEDUCATION\nAssociate Degree in Information Technology",
+    "jobDescriptionText": "Position: Senior Frontend Engineer (React & TypeScript)\nSeeking a Senior Engineer to architect complex SPAs.\n\nREQUIREMENTS:\n- 5+ years building production web apps with React and TypeScript.\n- Deep understanding of Next.js, Redux state management, and Tailwind CSS.\n- Automated unit testing using Jest."
+  },
+  {
+    "id": "bm_03",
+    "domain": "Growth Marketing",
+    "candidateRole": "Growth Marketing Lead",
+    "targetRole": "Lead Growth Marketing Manager",
+    "humanMatchCategory": "STRONG_MATCH",
+    "humanMatchScore": 88,
+    "requiredSkills": ["Google Analytics", "HubSpot", "SEO", "A/B Testing", "CAC", "Meta Ads"],
+    "preferredSkills": ["Semrush", "Figma", "SQL"],
+    "resumeText": "SARAH CONNOR\nGrowth Marketer with 5 years driving acquisition loops, SEO organic scaling, GA4 event tracking, and HubSpot marketing automation.\n\nSKILLS\nGoogle Analytics 4, HubSpot, A/B Testing, CAC Optimization, Meta Ads, SEO, SQL\n\nEXPERIENCE\nGrowth Manager - SaaS Corp | 2022 - Present\n- Scaled organic website traffic by 140% and improved lead conversions by 28%.\n- Managed $40k monthly ad budget across Google & Meta network campaigns.",
+    "jobDescriptionText": "Position: Lead Growth Marketing Manager\nLooking for a metric-driven marketer to own conversion funnels.\n\nREQUIREMENTS:\n- GA4 tracking, HubSpot automated workflows, A/B testing experience.\n- Lower CAC through paid acquisition on Google & Meta Ads."
+  },
+  {
+    "id": "bm_04",
+    "domain": "DevOps & Cloud",
+    "candidateRole": "DevOps Engineer",
+    "targetRole": "Senior Cloud Infrastructure Engineer (AWS & Terraform)",
+    "humanMatchCategory": "MODERATE_MATCH",
+    "humanMatchScore": 75,
+    "requiredSkills": ["AWS", "Terraform", "Kubernetes", "Docker", "CI/CD", "Python"],
+    "preferredSkills": ["Prometheus", "Grafana", "Ansible"],
+    "resumeText": "JORDAN LEE\nDevOps Specialist with 3 years managing AWS infrastructure using Terraform, Docker containers, and Jenkins pipelines.\n\nSKILLS\nAWS, Terraform, Docker, Jenkins, Linux, Bash\n\nEXPERIENCE\nDevOps Engineer - Tech Solutions | 2021 - Present\n- Provisioned AWS EC2 and RDS instances via Terraform infrastructure-as-code scripts.\n- Built Jenkins CI/CD automation pipelines for Dockerized applications.",
+    "jobDescriptionText": "Position: Senior Cloud Infrastructure Engineer\nSeeking Cloud Engineer to manage AWS infrastructure.\n\nREQUIREMENTS:\n- AWS, Terraform, Kubernetes, Docker, CI/CD pipelines.\n- Experience with Python scripting for automation."
+  }
+]
