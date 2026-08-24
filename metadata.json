@@ -1,0 +1,6 @@
+{
+  "name": "AI Resume & ATS Analyzer",
+  "description": "An industry-grade Resume and ATS Matching platform, delivering structural resume feedback, skill gaps, keywords, and interview guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
